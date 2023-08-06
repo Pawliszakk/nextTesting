@@ -1,5 +1,5 @@
 import Head from 'next/head';
-import PostContent from '../../components/posts/post-detail/postContent';
+import PostContent from '../../components/posts/post-detail/PostContent';
 import { getPostData, getPostFiles } from '../../lib/post-util';
 const PostDetailPage = ({ event }) => {
 	return (
