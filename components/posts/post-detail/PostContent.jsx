@@ -1,7 +1,7 @@
 import ReactMarkdown from 'react-markdown';
 import classes from './PostContent.module.css';
 
-import PostHeader from './postHeader';
+import PostHeader from './PostHeader';
 import Image from 'next/image';
 
 const PostContent = ({ post }) => {
